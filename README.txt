@@ -1,1 +1,0 @@
-To run this demonstration of the grassfire algorithm, compile and run GrassFire.java.
